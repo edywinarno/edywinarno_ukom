@@ -20,12 +20,6 @@ Pengguna
 ---------
 Apliksai ini bisa digunakan oleh semua orang yang membutuhkan.
 
-Fitur
-------
-* setting nada alarm
-* setting tanggal dan waktu bunyi alarm
-* bisa menambah alarm lebih dari satu.
-
 Kegiatan Aplikasi
 ------------------
 * User bisa mengatur tanggal dan jam berapa dia melakukan aktivitas.
